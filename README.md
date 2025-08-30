@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bishnu-prasad-sandha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishnu-prasad-sandha" height="30" width="40" /></a>
+<a href="https://x.com/PrasadSandha" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bishnu Prasad Sandha" height="30" width="40" /></a>
 <a href="https://instagram.com/asishkumarofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asishkumarofficial" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/supergamerashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supergamerashish" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/balf2rmmgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balf2rmmgw" height="30" width="40" /></a>
