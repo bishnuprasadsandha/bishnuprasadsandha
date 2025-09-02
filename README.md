@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barsarani16&label=Profile%20views&color=0e75b6&style=flat" alt="barsarani16" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bishnuprasadsandha&label=Profile%20views&color=0e75b6&style=flat" alt="bishnuprasadsandha" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Bishnu Prasad Sandha</h1>
 <h3 align="center">A passionate Android developer from India</h3>
