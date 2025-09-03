@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **asishkumar95889@gmail.com**
 
-- 🌍 Know about my experiences [https://bishnu-prasad.netlify.app/](https://bishnu-prasad.netlify.app/)
+- 🌍 Know about my experiences [Bishnu Prasad](https://bishnu-prasad.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
